@@ -1334,7 +1334,7 @@
 /* Main */
 
 	#main {
-		padding: 4em 0 2em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		@media screen and (max-width: 736px) {
@@ -1362,7 +1362,7 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0 2em 0;
+		padding: 2em 0 2em 0;
 		background-color: #1b1b1f;
 		text-align: center;
 	}
